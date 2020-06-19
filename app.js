@@ -32,7 +32,7 @@ hold.addEventListener('click',function(){
 	if(gameStatus){
 			scores[activePlayer]+=roundScore;
 			document.querySelector("#score-"+activePlayer).textContent= scores[activePlayer];
-			if(scores[activePlayer]>=10){
+			if(scores[activePlayer]>=100){
 		     
 			 var x = document.querySelector(".player-"+activePlayer+"-panel");
 			 x.classList.add('winner');
