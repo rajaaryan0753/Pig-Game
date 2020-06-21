@@ -15,4 +15,4 @@ it's the next player's turn.</li>
 <li>  If the player conseutively rolls 6 then his global score will turn to 0 and it's the next player turn.</li>
 <li> The first player to reach 100 points on GLOBAL score wins the game.</li>
 </ol>
-<h3> Hope You like the <a href ="https://rajaaryan0753.github.io/Pig-Game/" target="_blank">Game</a>(Click here to play the game)</h3>
+<h3> Hope You like the <a href ="https://rajaaryan0753.github.io/Pig-Game/" target="_blank" >Game </a>(Click here to play the game)</h3>
